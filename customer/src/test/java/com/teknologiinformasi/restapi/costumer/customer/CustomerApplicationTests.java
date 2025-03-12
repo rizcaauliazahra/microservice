@@ -1,10 +1,10 @@
-package com.teknologiinformasi.restapi.order;
+package com.teknologiinformasi.restapi.costumer.customer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestfulApiApplicationTests {
+class CustomerApplicationTests {
 
 	@Test
 	void contextLoads() {

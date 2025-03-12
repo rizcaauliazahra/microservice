@@ -1,16 +1,10 @@
 package com.teknologiinformasi.restapi.order.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
 
-//class produk hanya berperan sebagai dto (data transfer objects)
+
+//class produk hanya berperan sebagai DTO( data trasnfer objek)
 public class Produk {
 
-
-  
    private Long id;
 
 

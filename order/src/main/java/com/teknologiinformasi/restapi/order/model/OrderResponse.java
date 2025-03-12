@@ -23,4 +23,3 @@ public class OrderResponse {
         this.product = product;
     }
  }
- 
